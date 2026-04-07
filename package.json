@@ -3,6 +3,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev --turbopack",
+    "dev-secure": "next dev --turbo --experimental-https",
     "start": "next start"
   },
   "dependencies": {
